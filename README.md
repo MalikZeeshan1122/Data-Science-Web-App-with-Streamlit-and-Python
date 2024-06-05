@@ -72,6 +72,3 @@ Additionally, the application generates histograms (`gen_chart_hist_by_min`) to 
 
 Overall, this application provides an interactive dashboard for exploring and analyzing motor vehicle collisions in NYC, helping users gain insights into the incidents and their spatial and temporal patterns.
 
-**References:**
-1. [Anar Abiyev's GitHub Repo](https://github.com/anarabiyev/EDA_Streamlit_App)
-2. [Snehan Kekre's GitHub Repo](https://github.com/snehankekre/Streamlit-Vehicle-Collisions-NYC)
